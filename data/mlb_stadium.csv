@@ -1,0 +1,31 @@
+address,lat,lng,team
+"2000 Gene Autry Way, Anaheim, CA. 92806",33.799572,-117.889031,Anaheim Angels
+"P.O. Box 2095, Phoenix, AZ. 85001",33.452922,-112.038669,Arizona Diamondbacks
+"P.O. Box 4064, Atlanta, GA. 30302",33.74691,-84.391239,Atlanta Braves
+"333 W. Camden Street, Baltimore, MD. 21201",39.285243,-76.620103,Baltimore Orioles
+"4 Yawkey Way, Boston, MA 02215",42.346613,-71.098817,Boston Red Sox
+"1060 Addison Street, Chicago, IL 60616",41.947201,-87.656413,Chicago Cubs
+"333 W. 35th Street, Chicago, IL 60616",41.830883,-87.635083,Chicago White Sox
+"100 Cinergy Field, Cincinnati, OH 45202",39.107183,-84.507713,Cincinnati Reds
+"2401 Ontario Street, Cleveland, OH 44115",41.495149,-81.68709,Cleveland Indians
+"Coors Field, 2001 Blake Street, Denver, CO 80205-2000",39.75698,-104.965329,Colorado Rockies
+"Comerica Park, 2100 Woodward Ave., Detroit, MI 48201",42.346354,-83.059619,Detroit Tigers
+"2269 NW 199th Street, Miami, FL 33056",25.954428,-80.238164,Florida Marlins
+"P.O. Box 288, Houston, TX 77001-0288",29.76045,-95.369784,Houston Astros
+"P.O. Boz 419969, Kansas City, MO 64141",39.10222,-94.583559,Kansas City Royals
+"1000 Elysian Park Ave., Los Angeles, CA 90012",34.072437,-118.246879,Los Angeles Dodgers
+"P.O. Box 3099, Milwaukee, WI 53201-3099",43.04205,-87.905599,Milwaukee Brewers
+"501 Chicago Ave. S., Minneapolis, MN 55415",44.974346,-93.259616,Minnesota Twins
+"1500 South Capitol Street SE, Washington, DC",38.87,-77.01,Washington Nationals
+"Roosevelt Ave & 126th Street, New York, NY 11368",40.75535,-73.843219,New York Mets
+"Yankee Stadium, E. 161 Street & River Ave., New York, NY 10451",40.819782000000004,-73.929939,New York Yankees
+"Oakland Coliseum, 700 Coliseum Way, Oakland, Ca 94621-1918",37.74923,-122.196487,Oakland Athletics
+"P.O. Box 7575, Philadelphia, PA 19101",39.952313,-75.162392,Philadelphia Phillies
+"600 Stadium Circle, Pittsburgh, PA 15212",40.461503,-80.008924,Pittsburgh Pirates
+"250 Stadium Plaza, St. Louis, MO 63102",38.629683,-90.188247,St. Louis Cardinals
+"P.O. Box 2000, San Diego, CA 92112-2000",32.752148,-117.143635,San Diego Padres
+"Pacific Bell Park, 24 Willie Mays Plaza, San Francisco, CA 94107",37.77987,-122.389754,San Francisco Giants
+"P.O. Box 41000, 411 First Ave. S., Seattle, WA 98104",47.60174,-122.330829,Seattle Mariners
+"1 Tropicana Drive, St. Petersburg, FL 33705",27.768487,-82.648191,Tampa Bay Devil Rays
+"1000 Ballpark Way, Arlington, TX 76011",32.750156,-97.081117,Texas Rangers
+"1 Blue Jay Way, Suite 3200, Toronto, ONT M5V 1J1",43.641653,-79.3917,Toronto Blue Jays
