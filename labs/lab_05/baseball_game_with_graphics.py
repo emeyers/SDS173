@@ -87,7 +87,10 @@ class Baseball_Game:
             self.top_of_inning = True
             self.inning = self.inning + 1
 
+        # reset the balls, strikes and outs if a runner reaches base
         self.outs = 0
+        self.balls = 0
+        self.strikes = 0
 
         self.runner_on_first = self.runner_on_second = self.runner_on_third = False
     
@@ -147,6 +150,7 @@ class Baseball_Game:
             self.add_runner_on_first()
 
             
+            
     def add_single(self):
         
         # runnings from second and third score on a single
@@ -163,28 +167,39 @@ class Baseball_Game:
     
         self.runner_on_first = True
     
+        # reset the balls and strikes if a runner reaches base
+        self.balls = 0
+        self.strikes = 0
+    
+    
     
 
     def add_double(self):
         self.add_runs(self.runner_on_first + self.runner_on_second + self.runner_on_third)
         self.runner_on_first = self.runner_on_third = False
         self.runner_on_second = True
+        
         # reset the balls and strikes if a runner reaches base         
         self.balls = 0
         self.strikes = 0
-            
+        
+        
             
     def add_triple(self):
         self.add_runs(self.runner_on_first + self.runner_on_second + self.runner_on_third)
         self.runner_on_first = self.runner_on_second = False
         self.runner_on_third = True
+        
         # reset the balls and strikes if a runner reaches base         
         self.balls = 0
         self.strikes = 0
-            
+        
+        
+        
     def add_home_run(self):
         self.add_runs(self.runner_on_first + self.runner_on_second + self.runner_on_third + 1)
         self.runner_on_first = self.runner_on_second = self.runner_on_third = False
+        
         # reset the balls and strikes after a home run     
         self.balls = 0
         self.strikes = 0
